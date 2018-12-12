@@ -29,8 +29,11 @@ compile 'com.firebase:firebase-jobdispatcher:0.5.0'
 
 
 androidTestCompile 'junit:junit:4.12'
+
 androidTestCompile 'com.android.support:support-annotations:25.1.0'
+
 androidTestCompile 'com.android.support.test:runner:0.5'
+
 androidTestCompile 'com.android.support.test:rules:0.5'
 
 # License 
