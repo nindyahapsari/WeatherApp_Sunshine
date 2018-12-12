@@ -1,8 +1,7 @@
 
 
-# WeatherApp_Sunshine
-A light weight android weather app
-
+# Sunshine || Weather App
+Sunshine is a light weight and simple weather app that will show you the latest weather for day-to-day use.
 
 ![alt tag](https://github.com/nindyahapsari/WeatherApp_Sunshine/blob/master/1.png)
 
